@@ -22,22 +22,22 @@ In this work, machine learning is applied to analyze key risk factors like:
 The model outputs the probability (%) of having a stroke, along with a risk label (Low, Moderate, High).
 
 ##  Models Used & Accuracy Comparison
-Model Accuracy
-Decision Tree Classifier ~96%
-Logistic Regression	~76%
-XGBoost Classifier	~97%
-Random Forest Classifier	98.82% (Best)
+##### Model Accuracy
+Decision Tree Classifier: 96%;
+Logistic Regression: 76%;
+XGBoost Classifier: 97%;
+Random Forest Classifier: 98.82% (Best)
 
 Based on performance, Random Forest was selected for deployment.
 
 ##  Tech Stack
-##### Component        	Technology
-Frontend          	      HTML, CSS 
-Backend         	        Flask (Python)
-ML Model	                RandomForestClassifier (scikit-learn)
-Deployment               	Render
-Data Handling	            pandas, numpy
-Model Serialization      	joblib
+##### Component:	Technology
+Frontend:        	      HTML, CSS; 
+Backend:        	        Flask (Python);
+ML Model:	                RandomForestClassifier (scikit-learn);
+Deployment:               	Render;
+Data Handling:	            pandas, numpy;
+Model Serialization:      	joblib;
 
 ## Dataset
 The dataset used is from the Stroke Prediction Dataset
