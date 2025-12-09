@@ -50,18 +50,17 @@ Includes 10 key input features after preprocessing.
 
 git clone: https://github.com/PriyanshiSangwan/stroke-detection
 
-
 ## Open in browser
 
 http://127.0.0.1:5000/
 
 ## Project Structure
-   │── app.py
-   │── stroke_model.pkl
-   │── requirements.txt
-   │── templates/
-   │   └── index.html
-   │── README.md
+│── app.py
+│── stroke_model.pkl
+│── requirements.txt
+│── templates/
+│   └── index.html
+│── README.md
 
 ## Features
 
@@ -71,7 +70,7 @@ http://127.0.0.1:5000/
 
 
 	
-## ⚠ Disclaimer
+##  Disclaimer
 
 This tool is meant for educational purposes only
 It is not medical advice and should not replace consultation with a qualified healthcare professional.
