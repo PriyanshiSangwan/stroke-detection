@@ -22,8 +22,8 @@ In this work, machine learning is applied to analyze key risk factors like:
 The model outputs the probability (%) of having a stroke, along with a risk label (Low, Moderate, High).
 
 ##  Models Used & Accuracy Comparison
-Model	Accuracy
-Decision Tree Classifier	~96%
+Model Accuracy
+Decision Tree Classifier ~96%
 Logistic Regression	~76%
 XGBoost Classifier	~97%
 Random Forest Classifier	98.82% (Best)
@@ -50,17 +50,6 @@ Includes 10 key input features after preprocessing.
 
 git clone: https://github.com/PriyanshiSangwan/stroke-detection
 
-## Open in browser
-
-http://127.0.0.1:5000/
-
-## Project Structure
-│── app.py
-│── stroke_model.pkl
-│── requirements.txt
-│── templates/
-│   └── index.html
-│── README.md
 
 ## Features
 
@@ -82,3 +71,6 @@ B.Tech CSE — Machine Learning & Data Science Enthusiast
 
  Email: priyanshisangwan38@gmail.com
  LinkedIn: https://www.linkedin.com/in/priyanshi-sangwan-4782992a5/
+
+
+ 
